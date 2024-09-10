@@ -41,6 +41,7 @@
 |6| 동작방식| <img width="1200" src="https://github.com/user-attachments/assets/6b1549d9-8566-40cb-aa2c-396e95016f94"> | 사용자의 자소서가 등록 및 변경되는 경우, 새로운 크롤링 데이터가 유입되는 경우 분석시그널이 발생하여 AI가 구동된다. <br> 분석결과는 DB에 저장되어 제공된다. |
 
 
-Backend
-API 명세서 : https://verdant-manicure-979.notion.site/DAJOBA-API-ec4ececd6f39476786ca72732d8ddb76?pvs=4
+<br></br>
+Backend <br>
+API 명세서 : https://verdant-manicure-979.notion.site/DAJOBA-API-ec4ececd6f39476786ca72732d8ddb76?pvs=4 <br>
 기능 정의서 : https://docs.google.com/spreadsheets/d/1XZoTWOw3ifeOBAzbPdCXyLfn3nto0Aot/edit#gid=948384303
